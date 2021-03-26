@@ -1,1 +1,2 @@
 Main-Class: criscar.HelloWorldAnt
+Class-Path: ../../lib/log4j-1.2.17.jar
